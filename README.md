@@ -8,7 +8,7 @@ I build practical software that solves real problems for real businesses, and I 
 - **Build apps end to end:** idea, design, database, hosting, and launch on the web and Google Play
 - **Turn messy workflows into simple tools:** bookings, field teams, payments, reports
 - **Use AI where it helps:** chatbots, photo recognition, automating routine work
-- **Run operations:** logistics, pricing, compliance and customer service
+- **Run operations:** logistics, pricing, customer service and e-waste EPR compliance (E-Waste Management Rules, CPCB)
 
 ## Featured project: e-waste pickup platform
 A booking platform I designed and built single-handedly for an e-waste collection company in Kerala.
