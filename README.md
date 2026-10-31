@@ -1,27 +1,24 @@
-# Hi, I'm Ashik Faisal
+# Hi, I'm Ashik Faisal 👋
 
-Deputy Manager at **Eco Friendly Solutions**, an e-waste collection company in Kottayam, Kerala. I designed and built our company's pickup booking app myself, from the first form to the Play Store.
+I build practical software that solves real problems for real businesses, and I run day-to-day operations, so I know what the people using it actually need.
 
-## What I built: the Eco Friendly Solutions app
+📍 Kottayam, Kerala, India
 
-A web app (installable PWA, now packaged for Google Play) that lets homes and businesses across Kerala sell their e-waste, and runs the team that collects it.
+## What I do
+- **Build apps end to end:** idea, design, database, hosting, and launch on the web and Google Play
+- **Turn messy workflows into simple tools:** bookings, field teams, payments, reports
+- **Use AI where it helps:** chatbots, photo recognition, automating routine work
+- **Run operations:** logistics, pricing, compliance and customer service
 
-**For customers**
-- Book a pickup with photos, address and preferred time, in English or Malayalam
-- Optional customer accounts with saved addresses, pickup history and earnings
-- Item price ranges, quotes from photos, and status updates on WhatsApp
-- AI support chat for questions about what we collect and how payment works
+## Featured project: e-waste pickup platform
+A booking platform I designed and built single-handedly for an e-waste collection company in Kerala.
+- Customer booking with photos, Malayalam and English, accounts, WhatsApp updates and an AI help chat
+- Staff side with roles, pickup assignment, weighing, payments, expenses and reports
+- Courier rate comparison and tender imports
+- Live on the web, packaged as an Android app for Google Play
 
-**For staff**
-- Pickup board with roles (owner, manager, accounts, staff, driver) and an activity log
-- Daily rate card, weighing at pickup, settlement tracking and expense records
-- Courier rate comparison, tender imports and monthly tonnage reports
+## Tools I use
+JavaScript · HTML/CSS · Supabase (Postgres, Auth, Storage) · Cloudflare · PWA / Android (TWA) · Gemini and other AI APIs · Claude
 
-**Built with:** HTML/JavaScript, Supabase (database, auth, storage), Cloudflare (hosting), WhatsApp, Google Play (Trusted Web Activity)
-
-## Links
-- Website: [ewastecollectionkerala.com](https://ewastecollectionkerala.com)
-- Book a pickup: [app.ewastecollectionkerala.com](https://app.ewastecollectionkerala.com)
-
-## Interests
-Waste management and EPR compliance, building practical software for small businesses, and using AI in everyday operations.
+## Currently
+Launching on Google Play and learning more about Android, automation and AI products.
