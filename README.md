@@ -2,7 +2,7 @@
 
 I build practical software that solves real problems for real businesses, and I run day-to-day operations, so I know what the people using it actually need.
 
-📍 Kottayam, Kerala, India
+📍 Kottayam, Kerala, India · [LinkedIn](https://www.linkedin.com/in/ashikfaisal-ops)
 
 ## What I do
 - **Build apps end to end:** idea, design, database, hosting, and launch on the web and Google Play
