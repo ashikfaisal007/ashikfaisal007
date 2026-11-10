@@ -15,10 +15,10 @@ A booking platform I designed and built single-handedly for an e-waste collectio
 - Customer booking with photos, Malayalam and English, accounts, WhatsApp updates and an AI help chat
 - Staff side with roles, pickup assignment, weighing, payments, expenses and reports
 - Courier rate comparison and tender imports
-- Live on the web, packaged as an Android app for Google Play
+- Live on the web and on Google Play since November 2026: [Get it on Google Play](https://play.google.com/store/apps/details?id=com.ecofriendlysolutions.app&referrer=utm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dplay_launch)
 
 ## Tools I use
 JavaScript · HTML/CSS · Supabase (Postgres, Auth, Storage) · Cloudflare · PWA / Android (TWA) · Gemini and other AI APIs · Claude
 
 ## Currently
-Launching on Google Play and learning more about Android, automation and AI products.
+Growing the app's users after its Google Play launch, and learning more about Android, automation and AI products.
